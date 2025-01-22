@@ -38,8 +38,8 @@ I’m building a football team called **Rescisão** and actively working on its 
 ---
 
 ### 📫 Contact Me
-- **Email:** your.email@example.com
-- **LinkedIn:** [linkedin.com/in/gabriel-augusto-panucci](https://www.linkedin.com/in/gabriel-augusto-panucci)
+- **Email:** gabrielpanucci32@gmail.com
+- **LinkedIn:** [[linkedin.com/in/gabriel-augusto-panucci](https://www.linkedin.com/in/gabriel-augusto-panucci)](https://www.linkedin.com/in/gabriel-panucci-512652299/)
 - **Portfolio:** [gabrielpanuchi.com](#)
 
 ---
