@@ -1,6 +1,6 @@
 # Gabriel Augusto Panucci
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/gabriel-augusto-panucci)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/gabriel-panucci/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-lightgrey)](#)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:your.email@example.com)
 
